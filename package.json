@@ -1,0 +1,22 @@
+{
+  "name": "diff2html_compare",
+  "version": "1.0.0",
+  "description": "npm package for maintaining all the js and css styling for the diff2html_compare python script to work",
+  "main": "diff.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devilrancy/diff2html_npm.git"
+  },
+  "keywords": [
+    "diff2html"
+  ],
+  "author": "Naresh, Surisetty <nareshskyrocket@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devilrancy/diff2html_npm/issues"
+  },
+  "homepage": "https://github.com/devilrancy/diff2html_npm#readme"
+}

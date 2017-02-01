@@ -14,7 +14,7 @@
     "diff2html"
   ],
   "author": "Naresh, Surisetty <nareshskyrocket@gmail.com>",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/devilrancy/diff2html_npm/issues"
   },
